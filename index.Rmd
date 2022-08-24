@@ -1,0 +1,22 @@
+---
+title: "AHAD FAHAD AL-DOSSRI"
+image: "logo.jpg"
+color1: "#F1EBEB"
+color2: "#8B8786"
+angle: 1000
+links:
+  - label: Email
+    url: "mailto:Ahadfa.36@gmail.com"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/ahad-fahad-al-dossri/"
+  - label: GitHub
+    url: "https://github.com/AhadFM"
+output:
+  postcards::onofre
+---
+
+## About Me
+
+I am Ahad Fahad Al-Dosari, majoring in mathematics at Prince Sattam bin Abdulaziz University, I have training experience in Saudi Customs in risk management and I have some courses such as R language and EMIST program , I'm looking for Joining a work environment to develop my skills.
+
+##### **Contact Us:**
